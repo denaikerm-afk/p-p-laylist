@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, películas
 https://raw.githubusercontent.com/denaikerm-afk/p-p-eliculas/refs/heads/main/p-p-eliculas.m3u
+#EXTINF:-1, series 
+https://raw.githubusercontent.com/denaikerm-afk/s-s-eries/refs/heads/main/s-s-eries.m3u
 #EXTINF:-1, terror
 https://raw.githubusercontent.com/denaikerm-afk/p-t-error/refs/heads/main/p-t-error.m3u
 #EXTINF:-1, comedia 
