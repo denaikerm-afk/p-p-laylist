@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1, películas
+https://pelcula.denaikerm.workers.dev/p-p-eliculas.m3u
+#EXTINF:-1, terror
+https://terror.denaikerm.workers.dev/p-t-error.m3u
+#EXTINF:-1, comedia 
+https://comedia.denaikerm.workers.dev/p-c-omedia.m3u
+#EXTINF:-1, documental
+https://documental.denaikerm.workers.dev/p-d-ocumental.m3u
+#EXTINF:-1, animación
+https://animacion.denaikerm.workers.dev/p-a-nimacion.m3u
+#EXTINF:-1, anime
+https://panime.denaikerm.workers.dev/p-a-nime.m3u
+#EXTINF:-1, dorama
+https://dorama.denaikerm.workers.dev/p-d-oramas.m3u
+#EXTINF:-1, drama
+https://drama.denaikerm.workers.dev/p-d-rama.m3u
