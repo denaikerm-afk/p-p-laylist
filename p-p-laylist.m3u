@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1, películas
-https://pelcula.denaikerm.workers.dev/p-p-eliculas.m3u
+https://raw.githubusercontent.com/denaikerm-afk/p-p-eliculas/refs/heads/main/p-p-eliculas.m3u
 #EXTINF:-1, terror
-https://terror.denaikerm.workers.dev/p-t-error.m3u
+https://raw.githubusercontent.com/denaikerm-afk/p-t-error/refs/heads/main/p-t-error.m3u
 #EXTINF:-1, comedia 
-https://comedia.denaikerm.workers.dev/p-c-omedia.m3u
+https://raw.githubusercontent.com/denaikerm-afk/p-c-omedia/refs/heads/main/p-c-omedia.m3u
 #EXTINF:-1, documental
-https://documental.denaikerm.workers.dev/p-d-ocumental.m3u
+https://raw.githubusercontent.com/denaikerm-afk/p-d-ocumental/refs/heads/main/p-d-ocumental.m3u
 #EXTINF:-1, animación
-https://animacion.denaikerm.workers.dev/p-a-nimacion.m3u
+https://raw.githubusercontent.com/denaikerm-afk/p-a-nimacion/refs/heads/main/p-a-nimacion.m3u
 #EXTINF:-1, anime
-https://panime.denaikerm.workers.dev/p-a-nime.m3u
+https://raw.githubusercontent.com/denaikerm-afk/p-a-nime/refs/heads/main/p-a-nime.m3u
 #EXTINF:-1, dorama
-https://dorama.denaikerm.workers.dev/p-d-oramas.m3u
+https://raw.githubusercontent.com/denaikerm-afk/p-d-oramas/refs/heads/main/p-d-oramas.m3u
 #EXTINF:-1, drama
-https://drama.denaikerm.workers.dev/p-d-rama.m3u
+https://raw.githubusercontent.com/denaikerm-afk/p-d-rama/refs/heads/main/p-d-rama.m3u
